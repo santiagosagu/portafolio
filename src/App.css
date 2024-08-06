@@ -1,0 +1,23 @@
+body {
+  background-color: #1d2124;
+}
+
+.roboto-condensed {
+  font-family: "Roboto Condensed", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 300;
+  font-style: normal;
+}
+
+.roboto-mono {
+  font-family: "Roboto Mono", monospace;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.card-album-shadom {
+  -webkit-box-shadow: -7px 7px 5px 0px rgba(0, 0, 0, 0.38);
+  -moz-box-shadow: -7px 7px 5px 0px rgba(0, 0, 0, 0.38);
+  box-shadow: -7px 7px 5px 0px rgba(0, 0, 0, 0.38);
+}
