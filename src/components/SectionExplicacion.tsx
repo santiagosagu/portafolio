@@ -20,7 +20,7 @@ const SectionExplicacion = () => {
           <ListItemText
             primary={
               <>
-                <Typography className="text-black font-bold text-xl lg:w-[500px] 2xl:w-[600px] lg:pl-3 mt-2 roboto-condensed">
+                <Typography className="text-[#1e223e] font-bold text-xl lg:w-[500px] 2xl:w-[600px] lg:pl-3 mt-2 roboto-condensed">
                   1. Creación de un Hook Personalizado para peticiones Fetch:
                 </Typography>
                 <Typography className="text-white text-lg lg:w-[500px] 2xl:w-[600px] lg:pl-3 mt-2">
@@ -29,7 +29,7 @@ const SectionExplicacion = () => {
                   de reutilizar. Esto nos ayudará a simplificar la gestión de
                   datos y a mantener un código más limpio y eficiente.
                 </Typography>
-                <Typography className="text-black font-bold text-xl lg:w-[500px] 2xl:w-[600px] lg:pl-3 mt-2 roboto-condensed">
+                <Typography className="text-[#1e223e] font-bold text-xl lg:w-[500px] 2xl:w-[600px] lg:pl-3 mt-2 roboto-condensed">
                   2. Uso de Mock Service Worker (MSW) en Entornos de Desarrollo:
                 </Typography>
                 <Typography className="text-white text-lg lg:w-[500px] 2xl:w-[600px] lg:pl-3 mt-2">
@@ -43,7 +43,7 @@ const SectionExplicacion = () => {
                   de peticiones.
                 </Typography>
 
-                <Typography className="text-black font-bold text-2xl lg:w-[500px] 2xl:w-[600px] lg:pl-3 mt-2 roboto-condensed">
+                <Typography className="text-[#1e223e] font-bold text-2xl lg:w-[500px] 2xl:w-[600px] lg:pl-3 mt-2 roboto-condensed">
                   Sin más preámbulos, comencemos.
                 </Typography>
               </>
