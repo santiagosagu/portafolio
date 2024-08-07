@@ -25,12 +25,7 @@ const Msw = () => {
             la configuración de MSW. Prefiero separar esta configuración en tres
             archivos para mayor claridad sobre sus funciones. Luego, en cada
             módulo específico de la aplicación, guardaremos los mocks
-            correspondientes a las peticiones.En cuanto a la estructuración de
-            carpetas, organizaremos toda la lógica de las peticiones en una
-            única carpeta llamada API. En esta carpeta, incluiremos los
-            endpoints, los servicios y, si es necesario, los transforms. Esto
-            nos permitirá mantener una organización clara y accesible de nuestro
-            código relacionado con las peticiones.
+            correspondientes a las peticiones.
           </Typography>
         </div>
         <div className="max-w-[500px]">
