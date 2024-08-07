@@ -24,7 +24,11 @@ const SectionDemo = () => {
           <Typography className="text-3xl font-bold text-white mt-8">
             Portal de Administracion
           </Typography>
-          <Link href="#" underline="none">
+          <Link
+            href="https://saguadmin.netlify.app/dashboard"
+            underline="none"
+            target="_blanck"
+          >
             <Typography className="text-2xl font-bold text-blue-400 ">
               Ir al Demo
             </Typography>
@@ -73,9 +77,13 @@ const SectionDemo = () => {
         </div>
         <div className="">
           <Typography className="text-3xl font-bold text-white mt-8">
-            App de Musica
+            App de Musica (PWA)
           </Typography>
-          <Link href="#" underline="none">
+          <Link
+            href="https://sagumusic.netlify.app/dashboard"
+            underline="none"
+            target="_blanck"
+          >
             <Typography className="text-2xl font-bold text-blue-400 ">
               Ir al Demo
             </Typography>
